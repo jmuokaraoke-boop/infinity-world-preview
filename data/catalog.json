@@ -1,0 +1,7218 @@
+{
+  "version": 2,
+  "items": [
+    {
+      "id": "hair-m-01",
+      "category": "hair",
+      "name": "ソフトマッシュ",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "mash"
+    },
+    {
+      "id": "hair-m-02",
+      "category": "hair",
+      "name": "センターパート",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "center"
+    },
+    {
+      "id": "hair-m-03",
+      "category": "hair",
+      "name": "アップバング",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "up"
+    },
+    {
+      "id": "hair-m-04",
+      "category": "hair",
+      "name": "ショートレイヤー",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "layeredShort"
+    },
+    {
+      "id": "hair-m-05",
+      "category": "hair",
+      "name": "ナチュラルウルフ",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "wolf"
+    },
+    {
+      "id": "hair-m-06",
+      "category": "hair",
+      "name": "ツーブロック",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "twoBlock"
+    },
+    {
+      "id": "hair-m-07",
+      "category": "hair",
+      "name": "エアリーマッシュ",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "airyMash"
+    },
+    {
+      "id": "hair-m-08",
+      "category": "hair",
+      "name": "韓国風マッシュ",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "koreanMash"
+    },
+    {
+      "id": "hair-m-09",
+      "category": "hair",
+      "name": "コンマヘア",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "comma"
+    },
+    {
+      "id": "hair-m-10",
+      "category": "hair",
+      "name": "サイドパート",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "sidePart"
+    },
+    {
+      "id": "hair-m-11",
+      "category": "hair",
+      "name": "無造作ショート",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "messyShort"
+    },
+    {
+      "id": "hair-m-12",
+      "category": "hair",
+      "name": "スパイキーショート",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "spiky"
+    },
+    {
+      "id": "hair-m-13",
+      "category": "hair",
+      "name": "マッシュウルフ",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "mashWolf"
+    },
+    {
+      "id": "hair-m-14",
+      "category": "hair",
+      "name": "ミディアムレイヤー",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "mediumLayer"
+    },
+    {
+      "id": "hair-m-15",
+      "category": "hair",
+      "name": "ロングレイヤー",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "longLayer"
+    },
+    {
+      "id": "hair-m-16",
+      "category": "hair",
+      "name": "ウェーブパーマ",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "wave"
+    },
+    {
+      "id": "hair-m-17",
+      "category": "hair",
+      "name": "ニュアンスパーマ",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "nuance"
+    },
+    {
+      "id": "hair-m-18",
+      "category": "hair",
+      "name": "カルマパーマ",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "centerWave"
+    },
+    {
+      "id": "hair-m-19",
+      "category": "hair",
+      "name": "シャドウパーマ",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "shadow"
+    },
+    {
+      "id": "hair-m-20",
+      "category": "hair",
+      "name": "ツイスト風",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "twist"
+    },
+    {
+      "id": "hair-m-21",
+      "category": "hair",
+      "name": "ソフトモヒカン",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "mohawk"
+    },
+    {
+      "id": "hair-m-22",
+      "category": "hair",
+      "name": "刈り上げショート",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "cropped"
+    },
+    {
+      "id": "hair-m-23",
+      "category": "hair",
+      "name": "前下がりマッシュ",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "forwardMash"
+    },
+    {
+      "id": "hair-m-24",
+      "category": "hair",
+      "name": "フェザーミディ",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "feather"
+    },
+    {
+      "id": "hair-m-25",
+      "category": "hair",
+      "name": "ハーフアップ",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "halfUp"
+    },
+    {
+      "id": "hair-m-26",
+      "category": "hair",
+      "name": "低めポニー",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "lowPony"
+    },
+    {
+      "id": "hair-m-27",
+      "category": "hair",
+      "name": "センターウェーブ",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "centerWave"
+    },
+    {
+      "id": "hair-m-28",
+      "category": "hair",
+      "name": "アシンメトリー",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "asym"
+    },
+    {
+      "id": "hair-m-29",
+      "category": "hair",
+      "name": "クラウドマッシュ",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "cloudMash"
+    },
+    {
+      "id": "hair-m-30",
+      "category": "hair",
+      "name": "シースルーマッシュ",
+      "tags": [
+        "hair",
+        "masculine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "masculine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "seeThroughMash"
+    },
+    {
+      "id": "hair-f-01",
+      "category": "hair",
+      "name": "ストレートロング",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "long"
+    },
+    {
+      "id": "hair-f-02",
+      "category": "hair",
+      "name": "ウェーブロング",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "waveLong"
+    },
+    {
+      "id": "hair-f-03",
+      "category": "hair",
+      "name": "ミディアムレイヤー",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "mediumLayer"
+    },
+    {
+      "id": "hair-f-04",
+      "category": "hair",
+      "name": "グロッシーボブ",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "bob"
+    },
+    {
+      "id": "hair-f-05",
+      "category": "hair",
+      "name": "エアリーショート",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "airyShort"
+    },
+    {
+      "id": "hair-f-06",
+      "category": "hair",
+      "name": "ハイポニー",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "highPony"
+    },
+    {
+      "id": "hair-f-07",
+      "category": "hair",
+      "name": "ローポニー",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "lowPony"
+    },
+    {
+      "id": "hair-f-08",
+      "category": "hair",
+      "name": "ツインテール",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "twin"
+    },
+    {
+      "id": "hair-f-09",
+      "category": "hair",
+      "name": "ハーフアップ",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "halfUp"
+    },
+    {
+      "id": "hair-f-10",
+      "category": "hair",
+      "name": "シニヨン",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "chignon"
+    },
+    {
+      "id": "hair-f-11",
+      "category": "hair",
+      "name": "お団子ツイン",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "doubleBun"
+    },
+    {
+      "id": "hair-f-12",
+      "category": "hair",
+      "name": "姫カット",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "hime"
+    },
+    {
+      "id": "hair-f-13",
+      "category": "hair",
+      "name": "ソフトウルフ",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "softWolf"
+    },
+    {
+      "id": "hair-f-14",
+      "category": "hair",
+      "name": "レイヤーウルフ",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "wolf"
+    },
+    {
+      "id": "hair-f-15",
+      "category": "hair",
+      "name": "サイドブレイド",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "sideBraid"
+    },
+    {
+      "id": "hair-f-16",
+      "category": "hair",
+      "name": "編み込みロング",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "braidLong"
+    },
+    {
+      "id": "hair-f-17",
+      "category": "hair",
+      "name": "クラウンブレイド",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "crownBraid"
+    },
+    {
+      "id": "hair-f-18",
+      "category": "hair",
+      "name": "外ハネボブ",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "flipBob"
+    },
+    {
+      "id": "hair-f-19",
+      "category": "hair",
+      "name": "内巻きボブ",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "curlBob"
+    },
+    {
+      "id": "hair-f-20",
+      "category": "hair",
+      "name": "ウェーブボブ",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "waveBob"
+    },
+    {
+      "id": "hair-f-21",
+      "category": "hair",
+      "name": "ロングレイヤー",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "longLayer"
+    },
+    {
+      "id": "hair-f-22",
+      "category": "hair",
+      "name": "フェザーロング",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "featherLong"
+    },
+    {
+      "id": "hair-f-23",
+      "category": "hair",
+      "name": "センターパートロング",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "centerLong"
+    },
+    {
+      "id": "hair-f-24",
+      "category": "hair",
+      "name": "シースルーバングロング",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "seeThroughLong"
+    },
+    {
+      "id": "hair-f-25",
+      "category": "hair",
+      "name": "サイドバングロング",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "sideBangLong"
+    },
+    {
+      "id": "hair-f-26",
+      "category": "hair",
+      "name": "ハッシュカット",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "hush"
+    },
+    {
+      "id": "hair-f-27",
+      "category": "hair",
+      "name": "クラゲカット",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "jellyfish"
+    },
+    {
+      "id": "hair-f-28",
+      "category": "hair",
+      "name": "ミディアムロブ",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "lob"
+    },
+    {
+      "id": "hair-f-29",
+      "category": "hair",
+      "name": "ウェーブロブ",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "waveLob"
+    },
+    {
+      "id": "hair-f-30",
+      "category": "hair",
+      "name": "タイトポニー",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "tightPony"
+    },
+    {
+      "id": "hair-f-31",
+      "category": "hair",
+      "name": "リボンポニー",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "ribbonPony"
+    },
+    {
+      "id": "hair-f-32",
+      "category": "hair",
+      "name": "編み込みポニー",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "braidPony"
+    },
+    {
+      "id": "hair-f-33",
+      "category": "hair",
+      "name": "ツインブレイド",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "twinBraid"
+    },
+    {
+      "id": "hair-f-34",
+      "category": "hair",
+      "name": "フィッシュボーン",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "fishtail"
+    },
+    {
+      "id": "hair-f-35",
+      "category": "hair",
+      "name": "ハーフツイン",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "halfTwin"
+    },
+    {
+      "id": "hair-f-36",
+      "category": "hair",
+      "name": "サイドテール",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "sideTail"
+    },
+    {
+      "id": "hair-f-37",
+      "category": "hair",
+      "name": "ゆるお団子",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "looseBun"
+    },
+    {
+      "id": "hair-f-38",
+      "category": "hair",
+      "name": "ダブルお団子",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "doubleBun"
+    },
+    {
+      "id": "hair-f-39",
+      "category": "hair",
+      "name": "ストレートミディ",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "medium"
+    },
+    {
+      "id": "hair-f-40",
+      "category": "hair",
+      "name": "ウェーブミディ",
+      "tags": [
+        "hair",
+        "feminine"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "feminine",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "style": "waveMedium"
+    },
+    {
+      "id": "hairColor-01",
+      "category": "hairColor",
+      "name": "ナイト",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#12151d"
+    },
+    {
+      "id": "hairColor-02",
+      "category": "hairColor",
+      "name": "ココア",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#2a211e"
+    },
+    {
+      "id": "hairColor-03",
+      "category": "hairColor",
+      "name": "モカ",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#4a3026"
+    },
+    {
+      "id": "hairColor-04",
+      "category": "hairColor",
+      "name": "チェスナット",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#694536"
+    },
+    {
+      "id": "hairColor-05",
+      "category": "hairColor",
+      "name": "キャラメル",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#8a5a44"
+    },
+    {
+      "id": "hairColor-06",
+      "category": "hairColor",
+      "name": "アンバー",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#a87352"
+    },
+    {
+      "id": "hairColor-07",
+      "category": "hairColor",
+      "name": "ハニー",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#c89a6c"
+    },
+    {
+      "id": "hairColor-08",
+      "category": "hairColor",
+      "name": "シャンパン",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#e1bd83"
+    },
+    {
+      "id": "hairColor-09",
+      "category": "hairColor",
+      "name": "ミルクティー",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#eee2cb"
+    },
+    {
+      "id": "hairColor-10",
+      "category": "hairColor",
+      "name": "パール",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#d6d8df"
+    },
+    {
+      "id": "hairColor-11",
+      "category": "hairColor",
+      "name": "アッシュ",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#949aa6"
+    },
+    {
+      "id": "hairColor-12",
+      "category": "hairColor",
+      "name": "スモーク",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#636977"
+    },
+    {
+      "id": "hairColor-13",
+      "category": "hairColor",
+      "name": "ワイン",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#7b3e46"
+    },
+    {
+      "id": "hairColor-14",
+      "category": "hairColor",
+      "name": "ローズ",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#ad4c5d"
+    },
+    {
+      "id": "hairColor-15",
+      "category": "hairColor",
+      "name": "ピンク",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#dc7587"
+    },
+    {
+      "id": "hairColor-16",
+      "category": "hairColor",
+      "name": "ベリー",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#6c334f"
+    },
+    {
+      "id": "hairColor-17",
+      "category": "hairColor",
+      "name": "バイオレット",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#523b71"
+    },
+    {
+      "id": "hairColor-18",
+      "category": "hairColor",
+      "name": "ラベンダー",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#7759a5"
+    },
+    {
+      "id": "hairColor-19",
+      "category": "hairColor",
+      "name": "ネイビー",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#294f83"
+    },
+    {
+      "id": "hairColor-20",
+      "category": "hairColor",
+      "name": "ブルー",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#3d75ad"
+    },
+    {
+      "id": "hairColor-21",
+      "category": "hairColor",
+      "name": "ティール",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#2e7776"
+    },
+    {
+      "id": "hairColor-22",
+      "category": "hairColor",
+      "name": "フォレスト",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#4f8a5b"
+    },
+    {
+      "id": "hairColor-23",
+      "category": "hairColor",
+      "name": "ゴールド",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#b48034"
+    },
+    {
+      "id": "hairColor-24",
+      "category": "hairColor",
+      "name": "レモン",
+      "tags": [
+        "hairColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#e6c951"
+    },
+    {
+      "id": "bodyShape-01",
+      "category": "bodyShape",
+      "name": "スリム",
+      "tags": [
+        "bodyShape",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "bodyShape-02",
+      "category": "bodyShape",
+      "name": "ナチュラル",
+      "tags": [
+        "bodyShape",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "bodyShape-03",
+      "category": "bodyShape",
+      "name": "アスリート",
+      "tags": [
+        "bodyShape",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "bodyShape-04",
+      "category": "bodyShape",
+      "name": "ソフト",
+      "tags": [
+        "bodyShape",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "height-01",
+      "category": "height",
+      "name": "低め",
+      "tags": [
+        "height",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "value": 0
+    },
+    {
+      "id": "height-02",
+      "category": "height",
+      "name": "やや低め",
+      "tags": [
+        "height",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "value": 1
+    },
+    {
+      "id": "height-03",
+      "category": "height",
+      "name": "標準",
+      "tags": [
+        "height",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "value": 2
+    },
+    {
+      "id": "height-04",
+      "category": "height",
+      "name": "やや高め",
+      "tags": [
+        "height",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "value": 3
+    },
+    {
+      "id": "height-05",
+      "category": "height",
+      "name": "高め",
+      "tags": [
+        "height",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "value": 4
+    },
+    {
+      "id": "proportion-01",
+      "category": "proportion",
+      "name": "6.5頭身",
+      "tags": [
+        "proportion",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "value": 0
+    },
+    {
+      "id": "proportion-02",
+      "category": "proportion",
+      "name": "7頭身",
+      "tags": [
+        "proportion",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "value": 1
+    },
+    {
+      "id": "proportion-03",
+      "category": "proportion",
+      "name": "7.5頭身",
+      "tags": [
+        "proportion",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "value": 2
+    },
+    {
+      "id": "proportion-04",
+      "category": "proportion",
+      "name": "8頭身",
+      "tags": [
+        "proportion",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "value": 3
+    },
+    {
+      "id": "shoulders-01",
+      "category": "shoulders",
+      "name": "ナロー",
+      "tags": [
+        "shoulders",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "value": 0
+    },
+    {
+      "id": "shoulders-02",
+      "category": "shoulders",
+      "name": "標準",
+      "tags": [
+        "shoulders",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "value": 1
+    },
+    {
+      "id": "shoulders-03",
+      "category": "shoulders",
+      "name": "ワイド",
+      "tags": [
+        "shoulders",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "value": 2
+    },
+    {
+      "id": "build-01",
+      "category": "build",
+      "name": "ライト",
+      "tags": [
+        "build",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "value": 0
+    },
+    {
+      "id": "build-02",
+      "category": "build",
+      "name": "標準",
+      "tags": [
+        "build",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "value": 1
+    },
+    {
+      "id": "build-03",
+      "category": "build",
+      "name": "フィット",
+      "tags": [
+        "build",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "value": 2
+    },
+    {
+      "id": "build-04",
+      "category": "build",
+      "name": "ボリューム",
+      "tags": [
+        "build",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "value": 3
+    },
+    {
+      "id": "faceShape-01",
+      "category": "faceShape",
+      "name": "オーバル",
+      "tags": [
+        "faceShape",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "faceShape-02",
+      "category": "faceShape",
+      "name": "ソフトオーバル",
+      "tags": [
+        "faceShape",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "faceShape-03",
+      "category": "faceShape",
+      "name": "ラウンド",
+      "tags": [
+        "faceShape",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "faceShape-04",
+      "category": "faceShape",
+      "name": "ハート",
+      "tags": [
+        "faceShape",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "faceShape-05",
+      "category": "faceShape",
+      "name": "シャープ",
+      "tags": [
+        "faceShape",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "faceShape-06",
+      "category": "faceShape",
+      "name": "ダイヤ",
+      "tags": [
+        "faceShape",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "faceShape-07",
+      "category": "faceShape",
+      "name": "スクエア",
+      "tags": [
+        "faceShape",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "faceShape-08",
+      "category": "faceShape",
+      "name": "ロング",
+      "tags": [
+        "faceShape",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "faceShape-09",
+      "category": "faceShape",
+      "name": "ベビー",
+      "tags": [
+        "faceShape",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "faceShape-10",
+      "category": "faceShape",
+      "name": "モデル",
+      "tags": [
+        "faceShape",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "skinColor-01",
+      "category": "skinColor",
+      "name": "Porcelain",
+      "tags": [
+        "skinColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#f8ded2"
+    },
+    {
+      "id": "skinColor-02",
+      "category": "skinColor",
+      "name": "Ivory",
+      "tags": [
+        "skinColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#f4d2c2"
+    },
+    {
+      "id": "skinColor-03",
+      "category": "skinColor",
+      "name": "Warm Ivory",
+      "tags": [
+        "skinColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#edc4af"
+    },
+    {
+      "id": "skinColor-04",
+      "category": "skinColor",
+      "name": "Rose Beige",
+      "tags": [
+        "skinColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#e7b89f"
+    },
+    {
+      "id": "skinColor-05",
+      "category": "skinColor",
+      "name": "Neutral Beige",
+      "tags": [
+        "skinColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#dba68b"
+    },
+    {
+      "id": "skinColor-06",
+      "category": "skinColor",
+      "name": "Honey",
+      "tags": [
+        "skinColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#cd9476"
+    },
+    {
+      "id": "skinColor-07",
+      "category": "skinColor",
+      "name": "Golden",
+      "tags": [
+        "skinColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#bb7d5f"
+    },
+    {
+      "id": "skinColor-08",
+      "category": "skinColor",
+      "name": "Caramel",
+      "tags": [
+        "skinColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#a9674c"
+    },
+    {
+      "id": "skinColor-09",
+      "category": "skinColor",
+      "name": "Amber",
+      "tags": [
+        "skinColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#8f513d"
+    },
+    {
+      "id": "skinColor-10",
+      "category": "skinColor",
+      "name": "Bronze",
+      "tags": [
+        "skinColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#743f31"
+    },
+    {
+      "id": "skinColor-11",
+      "category": "skinColor",
+      "name": "Cocoa",
+      "tags": [
+        "skinColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#593027"
+    },
+    {
+      "id": "skinColor-12",
+      "category": "skinColor",
+      "name": "Deep",
+      "tags": [
+        "skinColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#3e211c"
+    },
+    {
+      "id": "eyes-01",
+      "category": "eyes",
+      "name": "ピュア",
+      "tags": [
+        "eyes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "eyes-02",
+      "category": "eyes",
+      "name": "ブライト",
+      "tags": [
+        "eyes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "eyes-03",
+      "category": "eyes",
+      "name": "アーモンド",
+      "tags": [
+        "eyes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "eyes-04",
+      "category": "eyes",
+      "name": "たれ目",
+      "tags": [
+        "eyes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "eyes-05",
+      "category": "eyes",
+      "name": "切れ長",
+      "tags": [
+        "eyes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "eyes-06",
+      "category": "eyes",
+      "name": "クール",
+      "tags": [
+        "eyes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "eyes-07",
+      "category": "eyes",
+      "name": "キャット",
+      "tags": [
+        "eyes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "eyes-08",
+      "category": "eyes",
+      "name": "ドーリー",
+      "tags": [
+        "eyes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "eyes-09",
+      "category": "eyes",
+      "name": "ナチュラル",
+      "tags": [
+        "eyes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "eyes-10",
+      "category": "eyes",
+      "name": "ワイド",
+      "tags": [
+        "eyes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "eyes-11",
+      "category": "eyes",
+      "name": "スマイル",
+      "tags": [
+        "eyes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "eyes-12",
+      "category": "eyes",
+      "name": "ミステリアス",
+      "tags": [
+        "eyes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "eyes-13",
+      "category": "eyes",
+      "name": "シャープ",
+      "tags": [
+        "eyes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "eyes-14",
+      "category": "eyes",
+      "name": "ソフト",
+      "tags": [
+        "eyes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "eyes-15",
+      "category": "eyes",
+      "name": "モード",
+      "tags": [
+        "eyes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "eyes-16",
+      "category": "eyes",
+      "name": "クラシック",
+      "tags": [
+        "eyes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "iris-01",
+      "category": "iris",
+      "name": "クリア",
+      "tags": [
+        "iris",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "iris-02",
+      "category": "iris",
+      "name": "リング",
+      "tags": [
+        "iris",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "iris-03",
+      "category": "iris",
+      "name": "グラデーション",
+      "tags": [
+        "iris",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "iris-04",
+      "category": "iris",
+      "name": "スター",
+      "tags": [
+        "iris",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "iris-05",
+      "category": "iris",
+      "name": "ジュエル",
+      "tags": [
+        "iris",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "iris-06",
+      "category": "iris",
+      "name": "ナチュラル",
+      "tags": [
+        "iris",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "irisColor-01",
+      "category": "irisColor",
+      "name": "チャコール",
+      "tags": [
+        "irisColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "irisColor-02",
+      "category": "irisColor",
+      "name": "ブラウン",
+      "tags": [
+        "irisColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "irisColor-03",
+      "category": "irisColor",
+      "name": "ヘーゼル",
+      "tags": [
+        "irisColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "irisColor-04",
+      "category": "irisColor",
+      "name": "アンバー",
+      "tags": [
+        "irisColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "irisColor-05",
+      "category": "irisColor",
+      "name": "ゴールド",
+      "tags": [
+        "irisColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "irisColor-06",
+      "category": "irisColor",
+      "name": "オリーブ",
+      "tags": [
+        "irisColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "irisColor-07",
+      "category": "irisColor",
+      "name": "エメラルド",
+      "tags": [
+        "irisColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "irisColor-08",
+      "category": "irisColor",
+      "name": "ミント",
+      "tags": [
+        "irisColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "irisColor-09",
+      "category": "irisColor",
+      "name": "アクア",
+      "tags": [
+        "irisColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "irisColor-10",
+      "category": "irisColor",
+      "name": "スカイ",
+      "tags": [
+        "irisColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "irisColor-11",
+      "category": "irisColor",
+      "name": "ブルー",
+      "tags": [
+        "irisColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "irisColor-12",
+      "category": "irisColor",
+      "name": "ネイビー",
+      "tags": [
+        "irisColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "irisColor-13",
+      "category": "irisColor",
+      "name": "バイオレット",
+      "tags": [
+        "irisColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "irisColor-14",
+      "category": "irisColor",
+      "name": "ラベンダー",
+      "tags": [
+        "irisColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "irisColor-15",
+      "category": "irisColor",
+      "name": "ローズ",
+      "tags": [
+        "irisColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "irisColor-16",
+      "category": "irisColor",
+      "name": "グレー",
+      "tags": [
+        "irisColor",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "brows-01",
+      "category": "brows",
+      "name": "ストレート",
+      "tags": [
+        "brows",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "brows-02",
+      "category": "brows",
+      "name": "ソフト",
+      "tags": [
+        "brows",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "brows-03",
+      "category": "brows",
+      "name": "アーチ",
+      "tags": [
+        "brows",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "brows-04",
+      "category": "brows",
+      "name": "シャープ",
+      "tags": [
+        "brows",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "brows-05",
+      "category": "brows",
+      "name": "ナチュラル",
+      "tags": [
+        "brows",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "brows-06",
+      "category": "brows",
+      "name": "細め",
+      "tags": [
+        "brows",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "brows-07",
+      "category": "brows",
+      "name": "太め",
+      "tags": [
+        "brows",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "brows-08",
+      "category": "brows",
+      "name": "上がり",
+      "tags": [
+        "brows",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "brows-09",
+      "category": "brows",
+      "name": "下がり",
+      "tags": [
+        "brows",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "brows-10",
+      "category": "brows",
+      "name": "モード",
+      "tags": [
+        "brows",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "brows-11",
+      "category": "brows",
+      "name": "エアリー",
+      "tags": [
+        "brows",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "brows-12",
+      "category": "brows",
+      "name": "クラシック",
+      "tags": [
+        "brows",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "nose-01",
+      "category": "nose",
+      "name": "スモール",
+      "tags": [
+        "nose",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "nose-02",
+      "category": "nose",
+      "name": "ナチュラル",
+      "tags": [
+        "nose",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "nose-03",
+      "category": "nose",
+      "name": "シャープ",
+      "tags": [
+        "nose",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "nose-04",
+      "category": "nose",
+      "name": "ソフト",
+      "tags": [
+        "nose",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "nose-05",
+      "category": "nose",
+      "name": "ストレート",
+      "tags": [
+        "nose",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "nose-06",
+      "category": "nose",
+      "name": "ラウンド",
+      "tags": [
+        "nose",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "nose-07",
+      "category": "nose",
+      "name": "ハイ",
+      "tags": [
+        "nose",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "nose-08",
+      "category": "nose",
+      "name": "ロー",
+      "tags": [
+        "nose",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "mouth-01",
+      "category": "mouth",
+      "name": "ナチュラル",
+      "tags": [
+        "mouth",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "mouth-02",
+      "category": "mouth",
+      "name": "スマイル",
+      "tags": [
+        "mouth",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "mouth-03",
+      "category": "mouth",
+      "name": "ソフト",
+      "tags": [
+        "mouth",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "mouth-04",
+      "category": "mouth",
+      "name": "クール",
+      "tags": [
+        "mouth",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "mouth-05",
+      "category": "mouth",
+      "name": "小さめ",
+      "tags": [
+        "mouth",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "mouth-06",
+      "category": "mouth",
+      "name": "ふっくら",
+      "tags": [
+        "mouth",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "mouth-07",
+      "category": "mouth",
+      "name": "シャープ",
+      "tags": [
+        "mouth",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "mouth-08",
+      "category": "mouth",
+      "name": "キュート",
+      "tags": [
+        "mouth",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "mouth-09",
+      "category": "mouth",
+      "name": "モード",
+      "tags": [
+        "mouth",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "mouth-10",
+      "category": "mouth",
+      "name": "クラシック",
+      "tags": [
+        "mouth",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "mouth-11",
+      "category": "mouth",
+      "name": "オープン",
+      "tags": [
+        "mouth",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "mouth-12",
+      "category": "mouth",
+      "name": "リラックス",
+      "tags": [
+        "mouth",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "ears-01",
+      "category": "ears",
+      "name": "標準",
+      "tags": [
+        "ears",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "ears-02",
+      "category": "ears",
+      "name": "小さめ",
+      "tags": [
+        "ears",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "ears-03",
+      "category": "ears",
+      "name": "エルフ",
+      "tags": [
+        "ears",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "details-01",
+      "category": "details",
+      "name": "なし",
+      "tags": [
+        "details",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "details-02",
+      "category": "details",
+      "name": "そばかす",
+      "tags": [
+        "details",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "details-03",
+      "category": "details",
+      "name": "左ほくろ",
+      "tags": [
+        "details",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "details-04",
+      "category": "details",
+      "name": "右ほくろ",
+      "tags": [
+        "details",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "details-05",
+      "category": "details",
+      "name": "両ほくろ",
+      "tags": [
+        "details",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "beard-01",
+      "category": "beard",
+      "name": "なし",
+      "tags": [
+        "beard",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "beard-02",
+      "category": "beard",
+      "name": "ライトスタブル",
+      "tags": [
+        "beard",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "beard-03",
+      "category": "beard",
+      "name": "口ひげ",
+      "tags": [
+        "beard",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "beard-04",
+      "category": "beard",
+      "name": "ショート",
+      "tags": [
+        "beard",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "makeup-01",
+      "category": "makeup",
+      "name": "なし",
+      "tags": [
+        "makeup",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "makeup-02",
+      "category": "makeup",
+      "name": "ナチュラル",
+      "tags": [
+        "makeup",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "makeup-03",
+      "category": "makeup",
+      "name": "コーラル",
+      "tags": [
+        "makeup",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "makeup-04",
+      "category": "makeup",
+      "name": "ローズ",
+      "tags": [
+        "makeup",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "makeup-05",
+      "category": "makeup",
+      "name": "モード",
+      "tags": [
+        "makeup",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "makeup-06",
+      "category": "makeup",
+      "name": "スモーキー",
+      "tags": [
+        "makeup",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "bangs-01",
+      "category": "bangs",
+      "name": "なし",
+      "tags": [
+        "bangs",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "bangs-02",
+      "category": "bangs",
+      "name": "シースルー",
+      "tags": [
+        "bangs",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "bangs-03",
+      "category": "bangs",
+      "name": "ぱっつん",
+      "tags": [
+        "bangs",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "bangs-04",
+      "category": "bangs",
+      "name": "センター",
+      "tags": [
+        "bangs",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "bangs-05",
+      "category": "bangs",
+      "name": "サイド",
+      "tags": [
+        "bangs",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "bangs-06",
+      "category": "bangs",
+      "name": "カーテン",
+      "tags": [
+        "bangs",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "backHair-01",
+      "category": "backHair",
+      "name": "標準",
+      "tags": [
+        "backHair",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "backHair-02",
+      "category": "backHair",
+      "name": "タイト",
+      "tags": [
+        "backHair",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "backHair-03",
+      "category": "backHair",
+      "name": "ボリューム",
+      "tags": [
+        "backHair",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "backHair-04",
+      "category": "backHair",
+      "name": "ウェーブ",
+      "tags": [
+        "backHair",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "salon",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "hairAccent-01",
+      "category": "hairAccent",
+      "name": "なし",
+      "tags": [
+        "hairAccent",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "hairAccent-02",
+      "category": "hairAccent",
+      "name": "インナーライト",
+      "tags": [
+        "hairAccent",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "hairAccent-03",
+      "category": "hairAccent",
+      "name": "フェイスフレーム",
+      "tags": [
+        "hairAccent",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "hairAccent-04",
+      "category": "hairAccent",
+      "name": "グラデ",
+      "tags": [
+        "hairAccent",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "dress-01",
+      "category": "dress",
+      "name": "なし",
+      "tags": [
+        "dress",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "dress-02",
+      "category": "dress",
+      "name": "ミニワンピ",
+      "tags": [
+        "dress",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "dress-03",
+      "category": "dress",
+      "name": "シャツワンピ",
+      "tags": [
+        "dress",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "dress-04",
+      "category": "dress",
+      "name": "ニットセット",
+      "tags": [
+        "dress",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "dress-05",
+      "category": "dress",
+      "name": "ジャンプスーツ",
+      "tags": [
+        "dress",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "socks-01",
+      "category": "socks",
+      "name": "アンクル",
+      "tags": [
+        "socks",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "socks-02",
+      "category": "socks",
+      "name": "クルー",
+      "tags": [
+        "socks",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "socks-03",
+      "category": "socks",
+      "name": "ハイ",
+      "tags": [
+        "socks",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "socks-04",
+      "category": "socks",
+      "name": "タイツ",
+      "tags": [
+        "socks",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "hats-01",
+      "category": "hats",
+      "name": "なし",
+      "tags": [
+        "hats",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "hats-02",
+      "category": "hats",
+      "name": "キャップ",
+      "tags": [
+        "hats",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "hats-03",
+      "category": "hats",
+      "name": "ベレー",
+      "tags": [
+        "hats",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "hats-04",
+      "category": "hats",
+      "name": "ニット帽",
+      "tags": [
+        "hats",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "hats-05",
+      "category": "hats",
+      "name": "バケット",
+      "tags": [
+        "hats",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "glasses-01",
+      "category": "glasses",
+      "name": "なし",
+      "tags": [
+        "glasses",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "glasses-02",
+      "category": "glasses",
+      "name": "ラウンド",
+      "tags": [
+        "glasses",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "glasses-03",
+      "category": "glasses",
+      "name": "スクエア",
+      "tags": [
+        "glasses",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "glasses-04",
+      "category": "glasses",
+      "name": "ボストン",
+      "tags": [
+        "glasses",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "glasses-05",
+      "category": "glasses",
+      "name": "サングラス",
+      "tags": [
+        "glasses",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "earrings-01",
+      "category": "earrings",
+      "name": "なし",
+      "tags": [
+        "earrings",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "earrings-02",
+      "category": "earrings",
+      "name": "スタッド",
+      "tags": [
+        "earrings",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "earrings-03",
+      "category": "earrings",
+      "name": "フープ",
+      "tags": [
+        "earrings",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "earrings-04",
+      "category": "earrings",
+      "name": "ドロップ",
+      "tags": [
+        "earrings",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "necklaces-01",
+      "category": "necklaces",
+      "name": "なし",
+      "tags": [
+        "necklaces",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "necklaces-02",
+      "category": "necklaces",
+      "name": "チェーン",
+      "tags": [
+        "necklaces",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "necklaces-03",
+      "category": "necklaces",
+      "name": "ペンダント",
+      "tags": [
+        "necklaces",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "necklaces-04",
+      "category": "necklaces",
+      "name": "チョーカー",
+      "tags": [
+        "necklaces",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "bags-01",
+      "category": "bags",
+      "name": "なし",
+      "tags": [
+        "bags",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "bags-02",
+      "category": "bags",
+      "name": "ショルダー",
+      "tags": [
+        "bags",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "bags-03",
+      "category": "bags",
+      "name": "トート",
+      "tags": [
+        "bags",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "bags-04",
+      "category": "bags",
+      "name": "バックパック",
+      "tags": [
+        "bags",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "accessories-01",
+      "category": "accessories",
+      "name": "なし",
+      "tags": [
+        "accessories",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "accessories-02",
+      "category": "accessories",
+      "name": "腕時計",
+      "tags": [
+        "accessories",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "accessories-03",
+      "category": "accessories",
+      "name": "ブレスレット",
+      "tags": [
+        "accessories",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "accessories-04",
+      "category": "accessories",
+      "name": "スカーフ",
+      "tags": [
+        "accessories",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter"
+    },
+    {
+      "id": "tops-01",
+      "category": "tops",
+      "name": "ベーシックT 1",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#12151d"
+    },
+    {
+      "id": "tops-02",
+      "category": "tops",
+      "name": "オーバーシャツ 1",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#2a211e"
+    },
+    {
+      "id": "tops-03",
+      "category": "tops",
+      "name": "クロップドニット 1",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#4a3026"
+    },
+    {
+      "id": "tops-04",
+      "category": "tops",
+      "name": "フーディ 1",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#694536"
+    },
+    {
+      "id": "tops-05",
+      "category": "tops",
+      "name": "ハイネック 1",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#8a5a44"
+    },
+    {
+      "id": "tops-06",
+      "category": "tops",
+      "name": "ブラウス 1",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#a87352"
+    },
+    {
+      "id": "tops-07",
+      "category": "tops",
+      "name": "ジップトップ 1",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#c89a6c"
+    },
+    {
+      "id": "tops-08",
+      "category": "tops",
+      "name": "カーディガン 1",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#e1bd83"
+    },
+    {
+      "id": "tops-09",
+      "category": "tops",
+      "name": "ボーダーT 1",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#eee2cb"
+    },
+    {
+      "id": "tops-10",
+      "category": "tops",
+      "name": "モックネック 1",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#d6d8df"
+    },
+    {
+      "id": "tops-11",
+      "category": "tops",
+      "name": "ベーシックT 2",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#949aa6"
+    },
+    {
+      "id": "tops-12",
+      "category": "tops",
+      "name": "オーバーシャツ 2",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#636977"
+    },
+    {
+      "id": "tops-13",
+      "category": "tops",
+      "name": "クロップドニット 2",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#7b3e46"
+    },
+    {
+      "id": "tops-14",
+      "category": "tops",
+      "name": "フーディ 2",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#ad4c5d"
+    },
+    {
+      "id": "tops-15",
+      "category": "tops",
+      "name": "ハイネック 2",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#dc7587"
+    },
+    {
+      "id": "tops-16",
+      "category": "tops",
+      "name": "ブラウス 2",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#6c334f"
+    },
+    {
+      "id": "tops-17",
+      "category": "tops",
+      "name": "ジップトップ 2",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#523b71"
+    },
+    {
+      "id": "tops-18",
+      "category": "tops",
+      "name": "カーディガン 2",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#7759a5"
+    },
+    {
+      "id": "tops-19",
+      "category": "tops",
+      "name": "ボーダーT 2",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#294f83"
+    },
+    {
+      "id": "tops-20",
+      "category": "tops",
+      "name": "モックネック 2",
+      "tags": [
+        "tops",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#3d75ad"
+    },
+    {
+      "id": "bottoms-01",
+      "category": "bottoms",
+      "name": "ワイドパンツ 1",
+      "tags": [
+        "bottoms",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#e6c951"
+    },
+    {
+      "id": "bottoms-02",
+      "category": "bottoms",
+      "name": "スリムパンツ 1",
+      "tags": [
+        "bottoms",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#b48034"
+    },
+    {
+      "id": "bottoms-03",
+      "category": "bottoms",
+      "name": "プリーツスカート 1",
+      "tags": [
+        "bottoms",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#4f8a5b"
+    },
+    {
+      "id": "bottoms-04",
+      "category": "bottoms",
+      "name": "カーゴ 1",
+      "tags": [
+        "bottoms",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#2e7776"
+    },
+    {
+      "id": "bottoms-05",
+      "category": "bottoms",
+      "name": "デニム 1",
+      "tags": [
+        "bottoms",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#3d75ad"
+    },
+    {
+      "id": "bottoms-06",
+      "category": "bottoms",
+      "name": "ワイドパンツ 2",
+      "tags": [
+        "bottoms",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#294f83"
+    },
+    {
+      "id": "bottoms-07",
+      "category": "bottoms",
+      "name": "スリムパンツ 2",
+      "tags": [
+        "bottoms",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#7759a5"
+    },
+    {
+      "id": "bottoms-08",
+      "category": "bottoms",
+      "name": "プリーツスカート 2",
+      "tags": [
+        "bottoms",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#523b71"
+    },
+    {
+      "id": "bottoms-09",
+      "category": "bottoms",
+      "name": "カーゴ 2",
+      "tags": [
+        "bottoms",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#6c334f"
+    },
+    {
+      "id": "bottoms-10",
+      "category": "bottoms",
+      "name": "デニム 2",
+      "tags": [
+        "bottoms",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#dc7587"
+    },
+    {
+      "id": "bottoms-11",
+      "category": "bottoms",
+      "name": "ワイドパンツ 3",
+      "tags": [
+        "bottoms",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#ad4c5d"
+    },
+    {
+      "id": "bottoms-12",
+      "category": "bottoms",
+      "name": "スリムパンツ 3",
+      "tags": [
+        "bottoms",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#7b3e46"
+    },
+    {
+      "id": "bottoms-13",
+      "category": "bottoms",
+      "name": "プリーツスカート 3",
+      "tags": [
+        "bottoms",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#636977"
+    },
+    {
+      "id": "bottoms-14",
+      "category": "bottoms",
+      "name": "カーゴ 3",
+      "tags": [
+        "bottoms",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#949aa6"
+    },
+    {
+      "id": "bottoms-15",
+      "category": "bottoms",
+      "name": "デニム 3",
+      "tags": [
+        "bottoms",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#d6d8df"
+    },
+    {
+      "id": "outerwear-01",
+      "category": "outerwear",
+      "name": "ライトジャケット 1",
+      "tags": [
+        "outerwear",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#a87352"
+    },
+    {
+      "id": "outerwear-02",
+      "category": "outerwear",
+      "name": "ブルゾン 1",
+      "tags": [
+        "outerwear",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#c89a6c"
+    },
+    {
+      "id": "outerwear-03",
+      "category": "outerwear",
+      "name": "ロングコート 1",
+      "tags": [
+        "outerwear",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#e1bd83"
+    },
+    {
+      "id": "outerwear-04",
+      "category": "outerwear",
+      "name": "デニムジャケット 1",
+      "tags": [
+        "outerwear",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#eee2cb"
+    },
+    {
+      "id": "outerwear-05",
+      "category": "outerwear",
+      "name": "テーラード 1",
+      "tags": [
+        "outerwear",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#d6d8df"
+    },
+    {
+      "id": "outerwear-06",
+      "category": "outerwear",
+      "name": "ライトジャケット 2",
+      "tags": [
+        "outerwear",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#949aa6"
+    },
+    {
+      "id": "outerwear-07",
+      "category": "outerwear",
+      "name": "ブルゾン 2",
+      "tags": [
+        "outerwear",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#636977"
+    },
+    {
+      "id": "outerwear-08",
+      "category": "outerwear",
+      "name": "ロングコート 2",
+      "tags": [
+        "outerwear",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#7b3e46"
+    },
+    {
+      "id": "outerwear-09",
+      "category": "outerwear",
+      "name": "デニムジャケット 2",
+      "tags": [
+        "outerwear",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#ad4c5d"
+    },
+    {
+      "id": "outerwear-10",
+      "category": "outerwear",
+      "name": "テーラード 2",
+      "tags": [
+        "outerwear",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#dc7587"
+    },
+    {
+      "id": "shoes-01",
+      "category": "shoes",
+      "name": "スニーカー 1",
+      "tags": [
+        "shoes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#12151d"
+    },
+    {
+      "id": "shoes-02",
+      "category": "shoes",
+      "name": "ローファー 1",
+      "tags": [
+        "shoes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#2a211e"
+    },
+    {
+      "id": "shoes-03",
+      "category": "shoes",
+      "name": "ショートブーツ 1",
+      "tags": [
+        "shoes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#4a3026"
+    },
+    {
+      "id": "shoes-04",
+      "category": "shoes",
+      "name": "ハイカット 1",
+      "tags": [
+        "shoes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#694536"
+    },
+    {
+      "id": "shoes-05",
+      "category": "shoes",
+      "name": "パンプス 1",
+      "tags": [
+        "shoes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#8a5a44"
+    },
+    {
+      "id": "shoes-06",
+      "category": "shoes",
+      "name": "スニーカー 2",
+      "tags": [
+        "shoes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#a87352"
+    },
+    {
+      "id": "shoes-07",
+      "category": "shoes",
+      "name": "ローファー 2",
+      "tags": [
+        "shoes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#c89a6c"
+    },
+    {
+      "id": "shoes-08",
+      "category": "shoes",
+      "name": "ショートブーツ 2",
+      "tags": [
+        "shoes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#e1bd83"
+    },
+    {
+      "id": "shoes-09",
+      "category": "shoes",
+      "name": "ハイカット 2",
+      "tags": [
+        "shoes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#eee2cb"
+    },
+    {
+      "id": "shoes-10",
+      "category": "shoes",
+      "name": "パンプス 2",
+      "tags": [
+        "shoes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#d6d8df"
+    },
+    {
+      "id": "shoes-11",
+      "category": "shoes",
+      "name": "スニーカー 3",
+      "tags": [
+        "shoes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#949aa6"
+    },
+    {
+      "id": "shoes-12",
+      "category": "shoes",
+      "name": "ローファー 3",
+      "tags": [
+        "shoes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#636977"
+    },
+    {
+      "id": "shoes-13",
+      "category": "shoes",
+      "name": "ショートブーツ 3",
+      "tags": [
+        "shoes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#7b3e46"
+    },
+    {
+      "id": "shoes-14",
+      "category": "shoes",
+      "name": "ハイカット 3",
+      "tags": [
+        "shoes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#ad4c5d"
+    },
+    {
+      "id": "shoes-15",
+      "category": "shoes",
+      "name": "パンプス 3",
+      "tags": [
+        "shoes",
+        "neutral"
+      ],
+      "bodyCompatibility": [
+        "masculine",
+        "feminine"
+      ],
+      "genderPresentation": "neutral",
+      "modelPath": null,
+      "thumbnailPath": null,
+      "rarity": "common",
+      "quality": "prototype",
+      "shop": "starter",
+      "price": 0,
+      "unlockCondition": "starter",
+      "color": "#dc7587"
+    }
+  ],
+  "buildings": [
+    {
+      "id": "salon",
+      "name": "LUMINA SALON",
+      "kind": "salon",
+      "x": -5.5,
+      "z": -6.5,
+      "accent": "#d9b7ff",
+      "action": "入る"
+    },
+    {
+      "id": "fashion",
+      "name": "NOVA CLOSET",
+      "kind": "fashion",
+      "x": 6,
+      "z": -5.8,
+      "accent": "#9de7ff",
+      "action": "入る"
+    },
+    {
+      "id": "arcade",
+      "name": "∞ ARCADE",
+      "kind": "arcade",
+      "x": 7,
+      "z": 6,
+      "accent": "#ffd37d",
+      "action": "見る"
+    },
+    {
+      "id": "home",
+      "name": "MY HOME",
+      "kind": "home",
+      "x": -7,
+      "z": 6.2,
+      "accent": "#9ee8c1",
+      "action": "見る"
+    }
+  ]
+}
