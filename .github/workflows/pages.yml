@@ -3,13 +3,20 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+
 permissions:
   contents: read
   pages: write
   id-token: write
+
 concurrency:
   group: pages-preview
   cancel-in-progress: true
+
+env:
+  PREMIUM_FEMALE_SOURCE_REVISION: '35'
+  PREMIUM_FEMALE_ARCHIVE_URL: 'https://d2ol7oe51mr4n9.cloudfront.net/user_3Iuftb44UKSwW3b7vzPsAxK6pYS/6ec410ac-65d2-4869-8daa-974bb3264ee9.zip'
+
 jobs:
   deploy:
     environment:
@@ -18,20 +25,33 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Add CC0 production avatar
+
+      - name: Install rigged production avatar revision 35
         run: |
+          set -euo pipefail
           mkdir -p models/avatar-v2
-          curl -L --fail --retry 3 \
-            https://raw.githubusercontent.com/nirholas/three.ws/main/public/avatars/parametric-base.glb \
-            -o models/avatar-v2/feminine.glb
-          curl -L --fail --retry 3 \
-            https://raw.githubusercontent.com/nirholas/three.ws/main/avatar-sources/anny/LICENSE.md \
-            -o models/avatar-v2/CC0-MAKEHUMAN-LICENSE.md
-          test -s models/avatar-v2/feminine.glb
+          rm -f models/avatar-v2/feminine.glb \
+                models/avatar-v2/parametric-base.glb \
+                models/avatar-v2/premium-female.glb
+
+          curl -L --fail --retry 3 "$PREMIUM_FEMALE_ARCHIVE_URL" \
+            -o /tmp/premium-female-r35.zip
+          unzip -p /tmp/premium-female-r35.zip premium-female.glb \
+            > models/avatar-v2/premium-female.glb
+
+          SIZE="$(wc -c < models/avatar-v2/premium-female.glb | tr -d ' ')"
+          test "$SIZE" -gt 10000000
+
+          REV="$(node -e "const f=require('fs');const j=JSON.parse(f.readFileSync('avatar-build.json','utf8'));process.stdout.write(String(j.sourceRevision))")"
+          test "$REV" = "$PREMIUM_FEMALE_SOURCE_REVISION"
+
+          echo "Deployed production avatar revision=$REV bytes=$SIZE"
+
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
+
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
