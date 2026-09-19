@@ -18,6 +18,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Add CC0 production avatar
+        run: |
+          mkdir -p models/avatar-v2
+          curl -L --fail --retry 3 \
+            https://raw.githubusercontent.com/nirholas/three.ws/main/public/avatars/parametric-base.glb \
+            -o models/avatar-v2/feminine.glb
+          curl -L --fail --retry 3 \
+            https://raw.githubusercontent.com/nirholas/three.ws/main/avatar-sources/anny/LICENSE.md \
+            -o models/avatar-v2/CC0-MAKEHUMAN-LICENSE.md
+          test -s models/avatar-v2/feminine.glb
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
