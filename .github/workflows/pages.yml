@@ -13,10 +13,6 @@ concurrency:
   group: pages-preview
   cancel-in-progress: true
 
-env:
-  PREMIUM_FEMALE_SOURCE_REVISION: '35'
-  PREMIUM_FEMALE_ARCHIVE_URL: 'https://d2ol7oe51mr4n9.cloudfront.net/user_3Iuftb44UKSwW3b7vzPsAxK6pYS/6ec410ac-65d2-4869-8daa-974bb3264ee9.zip'
-
 jobs:
   deploy:
     environment:
@@ -26,26 +22,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install rigged production avatar revision 35
+      - name: Validate exact-avatar preview payload
         run: |
           set -euo pipefail
-          mkdir -p models/avatar-v2
-          rm -f models/avatar-v2/feminine.glb \
-                models/avatar-v2/parametric-base.glb \
-                models/avatar-v2/premium-female.glb
-
-          curl -L --fail --retry 3 "$PREMIUM_FEMALE_ARCHIVE_URL" \
-            -o /tmp/premium-female-r35.zip
-          unzip -p /tmp/premium-female-r35.zip premium-female.glb \
-            > models/avatar-v2/premium-female.glb
-
-          SIZE="$(wc -c < models/avatar-v2/premium-female.glb | tr -d ' ')"
-          test "$SIZE" -gt 10000000
-
-          REV="$(node -e "const f=require('fs');const j=JSON.parse(f.readFileSync('avatar-build.json','utf8'));process.stdout.write(String(j.sourceRevision))")"
-          test "$REV" = "$PREMIUM_FEMALE_SOURCE_REVISION"
-
-          echo "Deployed production avatar revision=$REV bytes=$SIZE"
+          test -f index.html
+          test -f avatar-build.json
+          test -f models/avatar-v3/model-chunks.json
+          test -f models/avatar-v3/chunks/part-000.txt
+          node -e "const f=require('fs');const b=JSON.parse(f.readFileSync('avatar-build.json','utf8'));if(b.sourceRevision!=='exact-v2-hq'||b.identityLocked!==true)process.exit(1);const m=JSON.parse(f.readFileSync('models/avatar-v3/model-chunks.json','utf8'));if(!Array.isArray(m.parts)||m.parts.length<1)process.exit(1);console.log('exact avatar preview',b.sourceRevision,m.parts.length)"
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
